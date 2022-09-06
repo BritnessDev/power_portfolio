@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/BritnessDev"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:BritnessDev.gmd@gmail.com"
+        }
+    ]
+}

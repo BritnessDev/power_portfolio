@@ -1,0 +1,49 @@
+{
+    "experiences": [
+        {
+            "title": "Full Stack Development",
+            "subtitle": "https://www.hoperunpro.org",
+            "workType": "Full-time",
+            "workDescription": [
+                "Development of backend and frontend"
+            ],
+            "dateText": "06/2011 – 09/2011"
+        },
+        {
+            "title": "Full Stack Development",
+            "subtitle": "https://www.marriott.com",
+            "workType": "Full-time",
+            "workDescription": [
+                "Development of backend and frontend"
+            ],
+            "dateText": "11/2011 – 01/2012"
+        },
+        {
+            "title": "Xonotic Game Server Development",
+            "subtitle": "Game Server(C)",
+            "workType": "Internship",
+            "workDescription": [
+                "Develop Game Server with darkplace"
+            ],
+            "dateText": "03/2012 – 05/2015"
+        },
+        {
+            "title": "App Developer",
+            "subtitle": "Several Apps",
+            "workType": "JOB",
+            "workDescription": [
+                "Dev Portfolio, Caaring - Cab Share App, Quiet Hours App, Feed List App, Secure Chat App"
+            ],
+            "dateText": "09/2017 – 01/2022"
+        },
+        {
+            "title": "Backend and Frontend Development",
+            "subtitle": "Server(FLASK) and Frontend(Angular)",
+            "workType": "JOB",
+            "workDescription": [
+                "Development of backend and frontend"
+            ],
+            "dateText": "03/2022 – 07/2022"
+        }
+    ]
+}

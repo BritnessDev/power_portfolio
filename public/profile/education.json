@@ -1,0 +1,31 @@
+{
+    "education":[
+        {
+            "title": "Jun 1990 - May 2001",
+            "cardTitle": "International School Of Paris",
+            "cardSubtitle":"Paris, FR",
+            "cardDetailedText": "CGPA - 9.5",
+            "icon" : {
+                "src": "images/education/primary.jpeg"
+            }
+        },
+        {
+            "title": "May 2001 - June 2005 ",
+            "cardTitle": "Kingsworth International School",
+            "cardSubtitle":"Paris, FR",
+            "cardDetailedText": "Marks - 90%",
+            "icon" : {
+                "src": "images/education/junior.jpg"
+            }
+        },
+        {
+            "title": "June 2005 - June 2010 ",
+            "cardTitle": "European International University",
+            "cardSubtitle":"Paris, FR",
+            "cardDetailedText": "Marks - 95%",
+            "icon" : {
+                "src": "images/education/university.png"
+            }
+        }
+    ]
+}
